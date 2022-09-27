@@ -1,0 +1,5 @@
+{
+  "plugins": ["."],
+	"themes": ["WordPress/theme-experiments"],
+	"phpVersion": "8.0"
+}
